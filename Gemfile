@@ -1,6 +1,5 @@
 # we do not want any user gems,
 # only the ones bundled by us
-#disable_system_gems
 
 source 'http://rubygems.org'
 
